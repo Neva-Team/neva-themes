@@ -12,7 +12,7 @@
 
 
 
-### 🏠 [Homepage](https://nevateam.github.io/neva-themes/index.html)
+### 🏠 [Homepage](https://neva-team.github.io/neva-themes/index.html)
 
 ## Author
 
